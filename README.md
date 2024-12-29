@@ -43,9 +43,7 @@ This project involves analyzing heart disease diagnostic data through a complete
 ## Installation & Usage
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/username/heart-disease-analysis.git
-   cd heart-disease-analysis
-
+   git clone (https://github.com/Riya2624/Heart-Disease-Diagnostic-Analysis
 2.Install required libraries:
    pip install -r requirements.txt
 3.Run the Python scripts for ETL and EDA:
